@@ -1,0 +1,5 @@
+protein_name,msa_location,theta
+rsvF_HR1_T23,rsvF_HR1_T23_ref_EVEprep.a2m,0.2
+rsvF_HR2_T17,rsvF_HR2_T17_ref_EVEprep.a2m,0.2
+fusion_core_T30,fusion_core_T30_aligned_EVEprep.a2m,0.2
+hsv1_gb_FLs_T30,hsv1_gb_FLs_T30_ref_EVEprep.a2m,0.2
