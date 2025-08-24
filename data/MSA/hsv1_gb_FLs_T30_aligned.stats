@@ -1,2 +1,8 @@
-length: 10
-sequences: 2
+=== A2M Quick Check (EVE expectations) ===
+File: hsv1_gb_FLs_T30_aligned.a2m
+N (sequences): 1170
+L (columns):   121
+L_cov (>=70% occ): 118  (0.975 of L)
+Sequences with >=50% gaps: 87  (7.44%)
+Occupancy percentiles (%): min=37.5, Q1=92.6, median=93.0, Q3=97.8, max=98.1
+WARNING: reference has 48 '-' gaps (EVE expects ungapped ref).

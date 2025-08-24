@@ -1,2 +1,8 @@
-length: 10
-sequences: 3
+=== A2M Quick Check (EVE expectations) ===
+File: rsvF_HR2_T17_aligned.a2m
+N (sequences): 16475
+L (columns):   51
+L_cov (>=70% occ): 34  (0.667 of L)
+Sequences with >=50% gaps: 126  (0.76%)
+Occupancy percentiles (%): min=9.9, Q1=27.9, median=96.1, Q3=99.7, max=99.9
+Reference (first) sequence appears ungapped ✔

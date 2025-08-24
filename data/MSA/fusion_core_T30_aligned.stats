@@ -1,2 +1,8 @@
-length: 10
-sequences: 2
+=== A2M Quick Check (EVE expectations) ===
+File: fusion_core_T30_aligned.a2m
+N (sequences): 7123
+L (columns):   70
+L_cov (>=70% occ): 57  (0.814 of L)
+Sequences with >=50% gaps: 57  (0.80%)
+Occupancy percentiles (%): min=6.0, Q1=75.6, median=98.6, Q3=99.6, max=99.8
+Reference (first) sequence appears ungapped ✔
